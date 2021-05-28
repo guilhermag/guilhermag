@@ -3,7 +3,8 @@
 I came from the north of Paraná State, in Brazil, engineer by formation, already had my own bakery and I love tech.
 
 - 🔭 I’m a student of Technology in Internet Systems at UTFPR-Toledo.
-- 🌱 I’m currently learning **Python** and **Data Science**. Here are some of my projects: 
+- 🌱 I’m currently learning **Python** and **Data Science**. Here are some of my projects:
+  -  [My portfolio](https://guilhermag.github.io/portfolio/).
 - 👯 I’m looking to collaborate on creating content about data analysis and how it changes the world.
 - 🤔 I’m looking for help to find an internship, to get knowledge and experience.
 - 💬 Ask me about new technologies, career changes and how to learn.
@@ -16,6 +17,7 @@ Vim do norte do Paraná, engenheiro de formação, ja tive uma confeitaria e amo
 
 - 🔭 Atualmente sou aluno de Tecnologia de Sistemas para Internet na UTFPR-Toledo.
 - 🌱 Eu estou aprendendo sobre **Python** e **Ciência de Dados**. Aqui estão alguns dos meus projetos:
+  -  [Meu portfólio](https://guilhermag.github.io/portfolio/).
 - 👯 Eu espero colaborar na criação de conteúdo sobre a análise, apresentação de dados e como isso muda o mundo.
 - 🤔 Eu procuro uma oportunidade de estágio para adquirir mais conhecimento e experiência.
 - 💬 Me pergunte sobre novas tecnologias, mudanças de carreira e como aprender a aprender.
