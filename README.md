@@ -4,8 +4,8 @@
 
 I'm from the north of Paraná State, in Brazil, engineer by formation, already had my own bakery and I love tech.
 
-- 🔭 I’m a student of Technology in Internet Systems at UTFPR-Toledo, and work as a software developer intern at TCS Latam.
-- 🌱 I’m currently learning **JavaScript**, **Node.js** and **React**. Here are some of my projects:
+- 🔭 I’m a student of Technology in Internet Systems at UTFPR-Toledo, and work as a software developer trainee at TCS Latam.
+- 🌱 I’m currently learning **JavaScript**, **TypeScript**, **Node.js** and **Angular**. Here are some of my projects:
   - [My repositories](https://github.com/guilhermag?tab=repositories).
 - 👯 I’m looking to collaborate on creating content about tech and how it changes the world.
 - 💬 Ask me about new technologies, career changes and how to learn.
@@ -16,8 +16,8 @@ I'm from the north of Paraná State, in Brazil, engineer by formation, already h
 
 Vim do norte do Paraná, engenheiro de formação, ja tive uma confeitaria e amo tecnologia.
 
-- 🔭 Atualmente sou aluno de Tecnologia de Sistemas para Internet na UTFPR-Toledo, e trabalho como estagiário de desenvolvimento na TCS Latam.
-- 🌱 Eu estou aprendendo sobre **JavaScript**, **Node.js** e **React**. Aqui estão alguns dos meus projetos:
+- 🔭 Atualmente sou aluno de Tecnologia de Sistemas para Internet na UTFPR-Toledo, e trabalho como trainee de desenvolvimento na TCS Latam.
+- 🌱 Eu estou aprendendo sobre **JavaScript**, **TypeScript**, **Node.js** e **Angular**. Aqui estão alguns dos meus projetos:
   - [Meus repositórios](https://github.com/guilhermag?tab=repositories).
 - 👯 Eu espero colaborar na criação de conteúdo sobre tecnologia e como isso muda o mundo.
 - 💬 Me pergunte sobre novas tecnologias, mudanças de carreira e como aprender a aprender.
